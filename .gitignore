@@ -15,5 +15,6 @@ yarn-error.log*
 .DS_Store
 *.tmp
 
-*.js
-!todo.js
+api.js
+server.js
+test.js
